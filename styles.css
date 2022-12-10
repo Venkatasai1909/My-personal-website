@@ -1,0 +1,43 @@
+body
+{
+  margin:0;
+  text-align:center;
+  font-family:Cursive,serif;
+  
+  
+}
+.top-container
+{
+   background-color:#33ffff;
+   padding-top:100px;
+   background-color:;
+}
+h1
+{
+ font-size: 400% ;
+ margin:0;
+font-family: sans-serif;
+line-height:30px;
+
+}
+h2
+{
+ font-family:Cursive,serif;
+}
+h3
+{
+font-family:Cursive,serif;
+}
+.middle-container
+{
+  background-color:#33ffff;
+}
+.bottom-container
+{
+  background-color:rgb(15,200,100);
+}
+.pro
+{
+  text-decoration:underline;
+  font-weight:normal;
+}
